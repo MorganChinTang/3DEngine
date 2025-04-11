@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C58241CD-EAC3-46A1-A61D-8D62022172B9}|VGP242\\01_HelloWindow\\01_HelloWindow.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\VGP242\\01_HelloWindow\\WinMai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C58241CD-EAC3-46A1-A61D-8D62022172B9}|VGP242\\01_HelloWindow\\01_HelloWindow.vcxproj|solutionrelative:VGP242\\01_HelloWindow\\WinMai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|solutionrelative:Framework\\Core\\Inc\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\3DEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|solutionrelative:Engine\\3DEngine\\Inc\\3DEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|solutionrelative:Engine\\3DEngine\\Inc\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|solutionrelative:Engine\\3DEngine\\Src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CE9DB3-0180-45A2-AFDB-859267529CAD}|Engine\\3DEngine\\3DEngine.vcxproj|solutionrelative:Engine\\3DEngine\\Src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|solutionrelative:Framework\\Core\\Inc\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|solutionrelative:Framework\\Core\\Src\\Precompiled.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2CB4CC-00BD-4121-8F14-C4E1B398493D}|Framework\\Core\\Core.vcxproj|solutionrelative:Framework\\Core\\Src\\Precompiled.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMai.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\VGP242\\01_HelloWindow\\WinMai.cpp",
+              "RelativeDocumentMoniker": "VGP242\\01_HelloWindow\\WinMai.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\VGP242\\01_HelloWindow\\WinMai.cpp",
+              "RelativeToolTip": "VGP242\\01_HelloWindow\\WinMai.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T04:40:01.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Precompiled.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.cpp",
+              "RelativeDocumentMoniker": "Engine\\3DEngine\\Src\\Precompiled.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.cpp",
+              "RelativeToolTip": "Engine\\3DEngine\\Src\\Precompiled.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T04:29:58.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Precompiled.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.h",
+              "RelativeDocumentMoniker": "Engine\\3DEngine\\Src\\Precompiled.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Src\\Precompiled.h",
+              "RelativeToolTip": "Engine\\3DEngine\\Src\\Precompiled.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:29:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\Common.h",
+              "RelativeDocumentMoniker": "Engine\\3DEngine\\Inc\\Common.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\Common.h",
+              "RelativeToolTip": "Engine\\3DEngine\\Inc\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:29:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3DEngine.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\3DEngine.h",
+              "RelativeDocumentMoniker": "Engine\\3DEngine\\Inc\\3DEngine.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Engine\\3DEngine\\Inc\\3DEngine.h",
+              "RelativeToolTip": "Engine\\3DEngine\\Inc\\3DEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:29:06.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Precompiled.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.cpp",
+              "RelativeDocumentMoniker": "Framework\\Core\\Src\\Precompiled.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.cpp",
+              "RelativeToolTip": "Framework\\Core\\Src\\Precompiled.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T04:14:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Precompiled.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.h",
+              "RelativeDocumentMoniker": "Framework\\Core\\Src\\Precompiled.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Src\\Precompiled.h",
+              "RelativeToolTip": "Framework\\Core\\Src\\Precompiled.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:14:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Core.h",
+              "RelativeDocumentMoniker": "Framework\\Core\\Inc\\Core.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Core.h",
+              "RelativeToolTip": "Framework\\Core\\Inc\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:13:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Common.h",
+              "RelativeDocumentMoniker": "Framework\\Core\\Inc\\Common.h",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\3DEngine\\Framework\\Core\\Inc\\Common.h",
+              "RelativeToolTip": "Framework\\Core\\Inc\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T04:13:04.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
