@@ -22,11 +22,15 @@ void App::Run(const AppConfig& config )
     ASSERT(mCurrentState != nullptr, "App: Need an app state to run");
     mCurrentState->Initialize();
     //Process updates
+
+    InputSystem* input = InputSystem::Get();
     mRunning = true;
     while (mRunning)
     {
         myWindow.ProcessMessages();
-        if (!myWindow.IsActive())
+        input->Update();
+
+        if (!myWindow.IsActive()|| input -> IsKeyPressed(KeyCode::ESCAPE))
         {
             Quit();
             continue;
@@ -46,12 +50,19 @@ void App::Run(const AppConfig& config )
         {
             mCurrentState->Update(deltaTime);
         }
+
+        GraphicsSystem* gs = GraphicsSystem::Get();
+        gs->BeginRender();
+        mCurrentState->Render();
+        gs->EndRender();
     }
 
     //Terminate everything
     LOG("App Quit");
     mCurrentState->Terminate();
 
+    InputSystem::StaticTerminate();
+    GraphicsSystem::StaticTerminate();
     myWindow.Terminate();
 }
 
